@@ -1,4 +1,4 @@
-### Olá! Eu sou a Dani 👩‍💻
+
 
 <div align="center">
   <a href="https://github.com/DanielleKarling">
